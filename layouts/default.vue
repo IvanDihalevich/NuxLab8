@@ -104,9 +104,10 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
+          title: 'Students',
+          to: '/students'
         }
+
       ],
       miniVariant: false,
       right: true,
