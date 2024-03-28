@@ -106,6 +106,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Students',
           to: '/students'
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Products',
+          to: '/products'
         }
 
       ],
